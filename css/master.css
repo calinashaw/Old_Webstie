@@ -13,5 +13,14 @@ html {
 	height:400px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
-	color: pink;
+	color: #FFE4E1;
+	margin: 0 auto;
+	margin-top: 60px;
+	text-align: center;
+}
+
+.prof-pic {
+	border-radius: 50%; 
+	height: 100px;
+	width: 100px;
 }
