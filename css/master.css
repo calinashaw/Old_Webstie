@@ -9,7 +9,7 @@ html {
 
 /* Style the tab buttons */
 .tablink {
-    background-color: #555;
+    background-color: #777;
     color: white;
     float: top;
     border: none;
@@ -22,7 +22,7 @@ html {
 
 /* Change background color of buttons on hover */
 .tablink:hover {
-    background-color: #777;
+    background-color: rgba(0,0,0,0.4);
 }
 
 /* Set default styles for tab content */
@@ -33,14 +33,9 @@ html {
     text-align: center;
 }
 
-/* Style each tab content individually */ 
-#London {background-color:red;}
-#Paris {background-color:green;}
-#Tokyo {background-color:blue;}
-#Oslo {background-color:orange;}
 .prof-box {
 	width:400px;
-	height:400px;
+	height:360px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: #FFE4E1;
@@ -57,6 +52,7 @@ html {
 
 .social-icons {
 	font-size: 2pc;
+	margin: 0 auto;
 }
 
 .social-icons a {
