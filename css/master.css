@@ -7,11 +7,40 @@ html {
 	font-family: sans-serif;
 }
 
+/* Style the tab buttons */
+.tablink {
+    background-color: #555;
+    color: white;
+    float: top;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%;
+}
 
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: #777;
+}
 
+/* Set default styles for tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Style each tab content individually */ 
+#London {background-color:red;}
+#Paris {background-color:green;}
+#Tokyo {background-color:blue;}
+#Oslo {background-color:orange;}
 .prof-box {
 	width:400px;
-	height:350px;
+	height:400px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: #FFE4E1;
@@ -21,9 +50,9 @@ html {
 }
 
 .prof-pic {
-	border-radius: 50%; 
-	height: 100px;
-	width: 100px;
+	border-radius: 60%; 
+	height: 170px;
+	width: 180px;
 }
 
 .social-icons {
@@ -39,3 +68,4 @@ html {
 	border-top: 1px solid pink;
 	margin:0 auto;
 }
+
