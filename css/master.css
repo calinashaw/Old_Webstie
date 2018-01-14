@@ -8,7 +8,7 @@ html {
 }
 
 /* Style the tab buttons */
-.tablink {
+button {
     background-color: #777;
     color: white;
     float: top;
@@ -21,7 +21,7 @@ html {
 }
 
 /* Change background color of buttons on hover */
-.tablink:hover {
+a:hover {
     background-color: rgba(0,0,0,0.4);
 }
 
@@ -64,4 +64,5 @@ html {
 	border-top: 1px solid #810038;
 	margin:0 auto;
 }
+
 
