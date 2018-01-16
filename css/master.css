@@ -79,6 +79,11 @@ button:hover {
 	height: 170px;
 	width: 180px;
 }
+.prof-pic3 {
+	border-radius: 60%; 
+	height: 170px;
+	width: 180px;
+}
 
 .social-icons {
 	font-size: 2pc;
