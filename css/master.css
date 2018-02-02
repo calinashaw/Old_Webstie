@@ -57,33 +57,7 @@ button:hover {
 	margin-top: 40px;
 	text-align: center;
 }
-.prof-box3 {
-	width:400px;
-	height:450px;
-	background:rgba(160,217,239,0.7);
-	padding: 40px;
-	color: #810038;
-	margin: 0 auto;
-	margin-top: 40px;
-	text-align: center;
-}
 
-.prof-pic-box {
-	border-style: square;
-	height: 270px;
-	width: 360px;
-}
-
-.prof-pic {
-	border-radius: 60%; 
-	height: 170px;
-	width: 180px;
-}
-.prof-pic {
-	border-radius: 60%; 
-	height: 170px;
-	width: 180px;
-}
 
 .social-icons {
 	font-size: 2pc;
