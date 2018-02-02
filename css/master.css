@@ -68,7 +68,7 @@ button:hover {
 	text-align: center;
 }
 
-.prof-pic2 {
+.prof-pic-box {
 	border-style: square;
 	height: 270px;
 	width: 360px;
@@ -79,7 +79,7 @@ button:hover {
 	height: 170px;
 	width: 180px;
 }
-.prof-pic3 {
+.prof-pic {
 	border-radius: 60%; 
 	height: 170px;
 	width: 180px;
